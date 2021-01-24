@@ -1,0 +1,2 @@
+# PnCode
+learning code personally
